@@ -1,0 +1,7 @@
+{
+  "name": "Hello Spring Boot",
+  "description": "The quickest way to get started with Java on Heroku",
+  "repository": "https://github.com/jamesward/hello-springboot",
+  "logo": "http://g00glen00b.be/wp-content/uploads/2012/08/spring-boot-logo.png",
+  "keywords": ["java", "spring", "spring boot"]
+}
