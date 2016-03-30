@@ -65,4 +65,8 @@ task dev() << {
 
 tasks.dev.dependsOn tasks.atom
 
+task stage {
+    dependsOn build
+}
+
 defaultTasks 'dev'
