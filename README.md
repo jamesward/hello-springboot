@@ -12,6 +12,6 @@ Experience the full round-trip development and deployment lifecycle without a CL
 1. From Atom, deploy your changes to Heroku by selecting the *Heroku* menu, then *Login*.  Once logged in, select the *Heroku* menu, then *Deploy*, then the app you want to deploy to.
 1. Once your app changes are deployed, check them out and you are done!
 
-## Demo
+## Watch a Demo
 
-See it in action as recored video <https://www.jamesward.com/2016/04/04/the-6-minute-cloud-local-roundtrip-with-spring-boot>
+[![Demo Video](https://img.youtube.com/vi/ZqzH-bhvcSQ/0.jpg)](https://www.youtube.com/watch?v=ZqzH-bhvcSQ)
